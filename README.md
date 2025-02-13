@@ -14,10 +14,15 @@ This project is a **comprehensive database system** designed to efficiently mana
 📂 Project Structure
 
 📦 Restaurant-Management-System
+
 ├── 📜 CleanTheDB.txt            # Cleans the database  
+
 ├── 📜 CreateSchema.txt           # Defines table structures  
+
 ├── 📜 AddData.txt       # Stores SQL procedures to add data
+
 ├── 📜 Reports.txt      # Includes queries to generate report
+
 └── 📜 README.md            # Documentation of the project  
 
 ## 📊 Business Questions Answered  
