@@ -1,5 +1,5 @@
 # DBMS
-# 🍽️ Restaurant & Inventory Management Database System  
+# 🍽️ Restaurant Management Database System  
 
 ## 📌 Project Overview  
 This project is a **comprehensive database system** designed to efficiently manage restaurant operations, including tracking **restaurants, cuisines, inventory, staff profiles, customer details, orders, tips, and reviews**. It includes optimized SQL procedures to analyze restaurant performance, income, and staff tips across different states.  
@@ -10,7 +10,7 @@ This project is a **comprehensive database system** designed to efficiently mana
 ✅ **Database Setup & Cleaning** – Ensures data consistency and integrity.  
 ✅ **Table & Procedure Creation** – Manages restaurants, cuisines, orders, inventory, and staff.  
 ✅ **Data Insertion** – Provides sample data for testing queries and reports.  
-✅ **Analytics & Reports:**  - Creates Reports to answer business questions
+✅ **Analytics & Reports**  - Creates Reports to answer business questions
 
 
 ## 📊 Business Questions Answered  
